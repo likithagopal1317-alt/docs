@@ -1,4 +1,4 @@
-import { useTranslation } from 'react-i18next';
+9import { useTranslation } from 'react-i18next';
 
 import { LinkReach, LinkRole } from '@/docs/doc-management/types';
 
